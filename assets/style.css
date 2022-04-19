@@ -1,0 +1,33 @@
+
+h3, p {
+    font-family: 'Roboto Serif', serif;
+}
+
+h6{
+    font-family: 'Roboto Serif', serif;
+    color: gray;
+    
+}
+
+button{
+    
+    font-family: 'Roboto Serif', serif !important;
+}
+
+button:hover{
+    background-color: darkgreen !important;
+    color: aliceblue !important;
+}
+
+a:hover{
+    
+    color: rgb(11, 73, 73) !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    padding: 0 2% 0 0;
+
+}
+
+
